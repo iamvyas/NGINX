@@ -1,0 +1,10 @@
+2024/03/11 14:09:45 [error] 31492#22824: *1 CreateFile() "D:\prog tools\nginx-1.24.0\nginx-1.24.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/03/11 14:48:03 [emerg] 3304#31624: CreateDirectory() "D:\prog tools\nginx projects\level 1\level 1 - basic/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2024/03/11 14:48:06 [emerg] 26052#38352: CreateDirectory() "D:\prog tools\nginx projects\level 1\level 1 - basic/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2024/03/11 14:48:08 [emerg] 25664#19116: CreateDirectory() "D:\prog tools\nginx projects\level 1\level 1 - basic/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2024/03/11 14:48:09 [emerg] 34472#29532: CreateDirectory() "D:\prog tools\nginx projects\level 1\level 1 - basic/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2024/03/11 14:48:11 [emerg] 13476#30040: CreateDirectory() "D:\prog tools\nginx projects\level 1\level 1 - basic/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2024/03/11 14:48:23 [emerg] 16676#22132: CreateDirectory() "D:\prog tools\nginx projects\level 1\level 1 - basic/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2024/03/11 14:48:24 [emerg] 22880#38176: CreateDirectory() "D:\prog tools\nginx projects\level 1\level 1 - basic/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2024/03/11 14:48:28 [emerg] 25200#30264: CreateDirectory() "D:\prog tools\nginx projects\level 1\level 1 - basic/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2024/03/11 14:49:51 [emerg] 332#15364: CreateDirectory() "D:\prog tools\nginx projects\level 1\level 1 - basic/temp/client_body_temp" failed (3: The system cannot find the path specified)
